@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:location/location.dart';
 import 'package:testing_flutter_app/src/app/locationListener.dart';
-import 'file:///D:/Projects/testing_flutter_app/lib/src/views/home/maps.dart';
 import 'package:testing_flutter_app/src/views/home/current_location_widget.dart';
 
 void main() {
